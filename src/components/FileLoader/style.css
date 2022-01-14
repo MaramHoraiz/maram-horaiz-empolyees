@@ -1,0 +1,16 @@
+.file-loader__container {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 30vh;
+  padding-top: 10vh;
+}
+label {
+  height: 15vh !important;
+  width: 100vh !important;
+  box-sizing: border-box;
+}
